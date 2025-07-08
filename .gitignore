@@ -1,0 +1,7 @@
+# Ignore logs
+logs/*
+!logs/.gitkeep
+
+# Ignore config with sevrets
+config/*.env
+
