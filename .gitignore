@@ -1,7 +1,8 @@
 # Ignore logs
 logs/*
 !logs/.gitkeep
-
 # Ignore config with sevrets
 config/*.env
-
+config/config.env
+#Ignore macOS metadata
+.DS_Store

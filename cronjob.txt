@@ -1,0 +1,1 @@
+*/30 * * * * /Users/burnt_jello/disk-usage-monitor/bin/monitor.sh
