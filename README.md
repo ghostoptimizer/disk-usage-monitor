@@ -70,7 +70,7 @@ disk-usage-monitor/
    Paste the line from cronjob.txt into crontab -e:
 
    */30 * * * * /full/path/to/bin/monitor.sh
-
+```
 ```
 📬 Alerting
 
