@@ -16,7 +16,7 @@ A simple Bash script to check disk usage on `/`, log the results, and send email
 ---
 
 ## 📁 Project Structure
-
+```
 disk-usage-monitor/
 ├── bin/
 │   └── monitor.sh
@@ -27,7 +27,7 @@ disk-usage-monitor/
 ├── .gitignore
 ├── README.md
 └── cronjob.txt  
-
+```
 ## ⚙️ Setup
 
 1. **Clone the repo**  
