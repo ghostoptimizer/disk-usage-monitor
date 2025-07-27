@@ -71,7 +71,7 @@ disk-usage-monitor/
 
    */30 * * * * /full/path/to/bin/monitor.sh
 
-
+```
 📬 Alerting
 
 When disk usage ≥ THRESHOLD, the script logs an alert and sends an email via msmtp.
@@ -81,4 +81,4 @@ When disk usage ≥ THRESHOLD, the script logs an alert and sends an email via m
 logs/
 config/config.env
 .DS_Store
-
+```
