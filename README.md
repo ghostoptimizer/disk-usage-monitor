@@ -30,7 +30,7 @@ disk-usage-monitor/
 ```
 ## ⚙️ Setup
 
-1. **Clone the repo**  
+ **Clone the repo**  
    ```bash
    git clone https://github.com/ghostoptimizer/disk-usage-monitor.git
    cd disk-usage-monitor
